@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kei98/CLionProjects/Datos/Datos II/Extra4/Sort.h
+string
+-
+
+/home/kei98/CLionProjects/Datos/Datos II/Extra4/main.cpp
+iostream
+-
+Sort.h
+/home/kei98/CLionProjects/Datos/Datos II/Extra4/Sort.h
+string
+-
+
